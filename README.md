@@ -1,1 +1,1 @@
-# BlockChain_cpp-Barak
+# Blockchain hashing simulation created by Barak
