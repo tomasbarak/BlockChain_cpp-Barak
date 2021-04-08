@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1617908391 source:d:\colegio tomi\codeblocksprojects\blockchainhashing\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<vector>
+	<string>
+	"functions.h"
+
+1617903130 d:\colegio tomi\codeblocksprojects\blockchainhashing\functions.h
+	"displayBlockchain.cpp"
+	"displayMenu.cpp"
+	"readLastBlock.cpp"
+	"replaceEndlines.cpp"
+	"mineBlock.cpp"
+
+1617903130 d:\colegio tomi\codeblocksprojects\blockchainhashing\displayblockchain.cpp
+
+1617902427 d:\colegio tomi\codeblocksprojects\blockchainhashing\displaymenu.cpp
+
+1617902427 d:\colegio tomi\codeblocksprojects\blockchainhashing\readlastblock.cpp
+
+1617902388 d:\colegio tomi\codeblocksprojects\blockchainhashing\replaceendlines.cpp
+
+1617908333 d:\colegio tomi\codeblocksprojects\blockchainhashing\mineblock.cpp
+	<bits/stdc++.h>
+
